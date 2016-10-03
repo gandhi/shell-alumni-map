@@ -8,3 +8,5 @@ to meet up with alumni to keep the shell community strong.
 Using Google Maps' API and tabletop.js, we pull information about alumni directly
 from a google sheet, and then plot their information all over this graph. As 
 more and more alumni add their names, more people will be added.
+
+Check it out here: https://startupshell.org/alumni/
